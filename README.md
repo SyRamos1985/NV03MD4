@@ -12,10 +12,10 @@
 
 ---
 
-**Missão Prática | Nível 2 | Mundo 4**
+**Missão Prática | Nível 3 | Mundo 4**
 
 
-**Posso criar um App de outra forma!**
+** Lidando com sensores em dispositivos móveis! **
 
 ---
 
